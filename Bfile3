@@ -1,2 +1,5 @@
 console.log("Adios! este es el tercer file")
 console.log("y ya es hora de irse")
+
+//Prueba de trabajo en el mismo archivo
+console.log("Estamos resolviendo el Item 7");
