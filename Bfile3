@@ -1,5 +1,9 @@
 console.log("Adios! este es el tercer file")
 console.log("y ya es hora de irse")
 
+<<<<<<< HEAD
 //Prueba de trabajo en el mismo archivo
 console.log("Estamos resolviendo el Item 7");
+=======
+console.log("ya casi terminamos con la ejercitación del día")
+>>>>>>> d4514d40042849148dcf318ed7453570a46c794f
